@@ -417,6 +417,7 @@
 		"en"		"Crouch jump opacity"
 		"chi"		"蹲跳不透明度"
 		"ua"		"Непрозорість Crouch jump"
+		"ru"		"Непрозрачность Crouch jump"
 	}
 	"Menu - Ind CJ Color"
 	{
